@@ -1,2 +1,2 @@
 # Projeto-Curr-culo
-Este é um protejo com finalidade de elaborar o meu currículo.  
+Este é um projeto com finalidade de elaborar o meu currículo.  
